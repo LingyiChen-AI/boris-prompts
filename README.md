@@ -4,7 +4,7 @@ An agent skill that writes high-quality prompts for any LLM (Claude, Claude Code
 
 If your request is unclear, the skill asks 1–3 targeted clarifying questions before writing. The output is short, copy-pasteable, and follows the five principles below.
 
-# Original tweet
+## Original tweet
 https://x.com/Etudecn/status/2057238154701426726
 
 ## Install
