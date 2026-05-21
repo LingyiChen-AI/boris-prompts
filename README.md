@@ -77,6 +77,8 @@ To add more skills later, drop them in as siblings under `skills/`.
 
 Methodology from Boris's "Claude Code Pro Tips" talk (Anthropic). This repo just packages it as an agent skill.
 
+Community: <https://linux.do>
+
 ## License
 
 MIT
